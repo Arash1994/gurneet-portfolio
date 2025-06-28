@@ -1,9 +1,5 @@
-import React from 'react'
-
 const portfolio = () => {
-  return (
-    <div>portfolio</div>
-  )
-}
+  return <div>portfolio</div>;
+};
 
-export default portfolio
+export default portfolio;
